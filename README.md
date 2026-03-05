@@ -62,7 +62,7 @@ True causal SNPs ranked among top hits
 Mini-GWAS-Project/
 ├── data/
 ├── results/
-├── Mini_GWAS_Project.ipynb
+├── Mini_GWAS_RSV.ipynb
 ├── requirements.txt
 └── README.md
 🛠 Technologies Used

@@ -1,4 +1,4 @@
-# Mini-GWAS-Project
+# Computational GWAS Pipeline in Python
 Implementation of a simplified Genome-Wide Association Study (GWAS) using simulated SNP data, statistical association testing, and genomic visualization.
 
 ## 🔬 Skills Demonstrated
